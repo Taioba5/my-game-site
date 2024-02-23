@@ -1,0 +1,26 @@
+#title {
+    background-color: #000000;
+}
+
+#hero {
+    background-color: #413543;
+}
+
+#footer {
+    background-color: #413543;
+}
+
+#features {
+    background-color: #F0EB8D;
+}
+
+.protest-riot-regular {
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+a:link {
+    text-decoration: none;
+}
+  
